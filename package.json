@@ -1,0 +1,25 @@
+{
+  "name": "my-freecodecomp-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jest:init": "npx jest --init",
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosenRomero/My-FreeCodeComp-Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosenRomero/My-FreeCodeComp-Projects/issues"
+  },
+  "homepage": "https://github.com/JosenRomero/My-FreeCodeComp-Projects#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
